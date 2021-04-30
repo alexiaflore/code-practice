@@ -1,2 +1,4 @@
 We are praticing the use of git, and trying the command we learn so far.
+
 hi everyone
+
